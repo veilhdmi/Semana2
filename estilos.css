@@ -1,0 +1,32 @@
+div {
+    background-color: rgb(166, 196, 223);
+    text-align: center;
+}
+#nombre_curso {
+    background-color: bisque;
+    padding-top: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 3px solid;
+}
+#nombre_carrera{
+    background-color: aquamarine;
+    font-size: smaller;
+    display: none;
+}
+
+.grupo1 {
+    font-size: x-large;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:visited{ 
+    color: aqua;
+}
+
+p::first-letter{
+    color: rgb(224, 40, 40);
+    font-size: x-large;
+    font-weight: 600;
+}
